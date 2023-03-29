@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Siddhant Mishra</h1>
 <h3 align="center">A Passionate and Enthusiastic Software developer & programmer❤️</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=siddhant99m&label=Profile%20views&color=0e75b6&style=flat" alt="siddhant99m" /> </p>
-
 - 👨‍💻 All of my projects are available at [https://siddhantm99.netlify.app/](https://siddhantm99.netlify.app/)
 
 - 📫 How to reach me **siddhantm864@gmail.com**
@@ -30,3 +28,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=siddhant99m&show_icons=true&locale=en" alt="siddhant99m" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=siddhant99m&" alt="siddhant99m" /></p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=siddhant99m&label=Profile%20views&color=0e75b6&style=flat" alt="siddhant99m" /> </p>
